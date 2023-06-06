@@ -1,6 +1,6 @@
 # Diabetes_Prediction_Using_Machine_Learning
 In this project, our objective is to predict whether the patient has diabetes
-or not based on various features like Glucose level, Insulin, Age, and BMI.
+or not based on various features like Glucose level, Insulin, Age,Pregnancies, BloodPressure, SkinThickness, DiabetesPredigreeFunction and BMI.
 We will perform all the steps from Data gathering to Model deployment.
 During the Model evaluation, we compare various machine learning algorithms based on accurate acy_score metric and find the best one.
 Then we create a web app using Flask, a python micro framework.
